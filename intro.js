@@ -2,9 +2,9 @@ const user = {
     name: "David",
     age: 16,
     isActive: false,
-    favoriteLanguage: "JavaScript"
+    favoriteProgrammingLanguage: "JavaScript"
 };
 
 console.log("Name:", user.name);
 console.log("Age:", user.age);
-console.log("Favorite Language:", user.favoriteLanguage);
+console.log("Favorite Programming Language:", user.favoriteProgrammingLanguage);
